@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+
+.form-control {
+  font-family: "PT Sans", sans-serif;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  border: #252525 1px solid;
+  border-radius: 25px;
+  margin: 10px;
+  text-align: center;
+  flex-wrap: wrap;
+  height: 50px;
+  width: 700px;
+}
+
+.ct-container {
+  min-width: 20%;
+  margin-top: 13px;
+}
+
+.py-container {
+  min-width: 20%;
+  margin-top: 13px;
+}
+
+.am-container {
+  min-width: 20%;
+  margin-top: 13px;
+}
+
+.edit-btn {
+  margin: 5px;
+  height: 40px;
+  width: 100px;
+  background-color: #fff;
+  border-color: #252525;
+  border-radius: 20px;
+}
+
+.del-btn {
+  margin: 5px;
+  height: 40px;
+  width: 100px;
+  background-color: #252525;
+  border-color: #fff;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.dark{
+  background-color: #252525;
+  color: #fff;
+}
+
+.selected {
+  border: #252525 1px solid;
+  margin-top: 10px;
+  height: 30px;
+  border-radius: 15px;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.amount input {
+  border: #252525 1px solid;
+  margin-top: 10px;
+  height: 26px;
+  width: 80px;
+  border-radius: 15px;
+  text-align: center;
+  margin-right: 5px;
+}

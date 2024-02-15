@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+.label-header {
+    text-align: start;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 28px;
+    margin-right: 20px;
+    margin-top: 2px;
+}
+
+.container-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.select-header {
+    border: #000000 1px solid;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 10px;
+}
